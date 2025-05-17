@@ -1,0 +1,642 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "caterinaf",
+    "displayName": "Caterina Finelli",
+    "profession": "Senior Product Designer",
+    "location": "Berlin, Germany",
+    "pronouns": null,
+    "byline": "Senior Product Designer in Berlin, Germany",
+    "website": null,
+    "websiteURL": null,
+    "about": "👋 Hello! Since 2012 I have been helping teams & organisations navigate audience needs and deliver the best digital experiences.",
+    "status": {
+      "text": null,
+      "emoji": null,
+      "timestamp": null
+    },
+    "sectionOrder": [
+      "Work Experience",
+      "Projects",
+      "Education",
+      "Side Projects",
+      "Contact",
+      "Exhibitions",
+      "Speaking",
+      "Writing",
+      "Awards",
+      "Features",
+      "Volunteering",
+      "Certifications",
+      "Teams"
+    ]
+  },
+  "projects": [
+    {
+      "id": "P6d2yZEXYCjHrI8gOQSB",
+      "year": "2024",
+      "heading": "X32 Console at Behringer",
+      "url": null,
+      "collaborators": [],
+      "description": "As part of my work as a UX/UI Designer, I had the opportunity to conceptualize a modern update to Behringer’s X32 console. The focus was on integrating a touch screen interface to enhance accessibility and efficiency for users, while also delivering a sleek, visually refined interface that aligns with contemporary design standards.",
+      "attachments": [],
+      "type": "project",
+      "title": "X32 Console",
+      "company": "Behringer"
+    },
+    {
+      "id": "seiRh0sQJbHQJkqjS4bY",
+      "year": "2024",
+      "heading": "InFi at Indoor Atlas",
+      "url": "https://www.indooratlas.com/",
+      "collaborators": [],
+      "description": "I got asked \"an app to navigate indoor venues like a ninja\" and I felt completely lost. Seven months later my agency and I presented a social app based on geomagnetic fields.",
+      "attachments": [],
+      "type": "project",
+      "title": "InFi",
+      "company": "Indoor Atlas"
+    },
+    {
+      "id": "fqbHHlsL8vsA8T0aHXkL",
+      "year": "2024",
+      "heading": "Picea at Home Power Solutions",
+      "url": "https://www.homepowersolutions.de/en/product/",
+      "collaborators": [],
+      "description": "In the future we will be all able to  generate, store, use and control our energy at home. Maybe simply using the iPad App of Home Power Solutions.",
+      "attachments": [],
+      "type": "project",
+      "title": "Picea",
+      "company": "Home Power Solutions"
+    },
+    {
+      "id": "cpCyxr9a3NQkdiKmENUc",
+      "year": "2022",
+      "heading": "Live Rec at Ableton",
+      "url": null,
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "project",
+      "title": "Live Rec",
+      "company": "Ableton"
+    }
+  ],
+  "sideProjects": [
+    {
+      "id": "Sc4mfw33oDbR158w3VHN",
+      "year": "Ongoing",
+      "heading": "Viaggio a 1.5x Podcast",
+      "url": "https://cheviaggio.net",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "sideProject",
+      "title": "Viaggio a 1.5x Podcast",
+      "company": ""
+    }
+  ],
+  "exhibitions": [],
+  "talks": [],
+  "writing": [],
+  "awards": [],
+  "features": [],
+  "workExperience": [
+    {
+      "id": "wY8KfoNYPNpjyMbVofLg",
+      "year": "2018 — Now",
+      "heading": "Senior Product Designer at SuperTab",
+      "url": "https://www.supertab.co/",
+      "collaborators": [],
+      "description": "Implemented Design strategies, practices and Design System, incorporated User Research & Testing into product planning and development cycles.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Senior Product Designer",
+      "company": "SuperTab",
+      "location": "Remote"
+    },
+    {
+      "id": "88BYqtxeoJEPxhuxocQH",
+      "year": "2023 — Now",
+      "heading": "Senior Product Designer at Freelance",
+      "url": null,
+      "collaborators": [],
+      "description": "When freelancing, I am diving into adventurous projects that push creative and technological boundaries. From designing for emerging industries to crafting pioneeristic UX/UI solutions, I thrive on creating innovative experiences that inspire and empower users.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1894,
+          "height": 1462,
+          "url": "/content/media/Senior-Product-Designer-at-Freelance-1.png"
+        },
+        {
+          "type": "video",
+          "width": 2042,
+          "height": 1252,
+          "url": "/content/media/Senior-Product-Designer-at-Freelance-2.mov"
+        },
+        {
+          "type": "video",
+          "width": 1978,
+          "height": 1332,
+          "url": "/content/media/Senior-Product-Designer-at-Freelance-3.mov"
+        },
+        {
+          "type": "image",
+          "width": 1440,
+          "height": 1117,
+          "url": "/content/media/Senior-Product-Designer-at-Freelance-4.png"
+        },
+        {
+          "type": "image",
+          "width": 947,
+          "height": 722,
+          "url": "/content/media/Senior-Product-Designer-at-Freelance-5.png"
+        },
+        {
+          "type": "video",
+          "width": 572,
+          "height": 1248,
+          "url": "/content/media/Senior-Product-Designer-at-Freelance-6.mov"
+        }
+      ],
+      "type": "workExperience",
+      "title": "Senior Product Designer",
+      "company": "Freelance",
+      "location": "Remote"
+    },
+    {
+      "id": "VpOzy3XwSnbUQgel97ht",
+      "year": "2016 — 2018",
+      "heading": "UX / UI Designer at PocketWeb",
+      "url": null,
+      "collaborators": [],
+      "description": "Responsible of UX and Interface Design, working with customer journeys, moodboards, wireframes and prototypes.",
+      "attachments": [
+        {
+          "type": "video",
+          "width": 2118,
+          "height": 1348,
+          "url": "/content/media/UX-UI-Designer-at-PocketWeb-1.mov"
+        },
+        {
+          "type": "video",
+          "width": 2230,
+          "height": 1458,
+          "url": "/content/media/UX-UI-Designer-at-PocketWeb-2.mov"
+        }
+      ],
+      "type": "workExperience",
+      "title": "UX / UI Designer",
+      "company": "PocketWeb",
+      "location": "Berlin, Germany"
+    },
+    {
+      "id": "Dz2Erlnb2mSUERt206RK",
+      "year": "2014 — 2016",
+      "heading": "UX / UI Designer at Quandoo",
+      "url": "https://www.quandoo.co.uk/?_gl=1*1czo2aq*_gcl_au*OTc4ODExNTQ3LjE3MzM5MTk0NTE.&locale=en_GB",
+      "collaborators": [],
+      "description": "Executing all visual design stages from concept to final release and effectively launched Android, iOS, browser-based SaaS.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1800,
+          "height": 1268,
+          "url": "/content/media/UX-UI-Designer-at-Quandoo-1.png"
+        },
+        {
+          "type": "image",
+          "width": 1800,
+          "height": 1268,
+          "url": "/content/media/UX-UI-Designer-at-Quandoo-2.png"
+        },
+        {
+          "type": "image",
+          "width": 1800,
+          "height": 1268,
+          "url": "/content/media/UX-UI-Designer-at-Quandoo-3.png"
+        },
+        {
+          "type": "image",
+          "width": 1800,
+          "height": 1268,
+          "url": "/content/media/UX-UI-Designer-at-Quandoo-4.png"
+        },
+        {
+          "type": "image",
+          "width": 1800,
+          "height": 1268,
+          "url": "/content/media/UX-UI-Designer-at-Quandoo-5.png"
+        }
+      ],
+      "type": "workExperience",
+      "title": "UX / UI Designer",
+      "company": "Quandoo",
+      "location": "Berlin, Germany"
+    },
+    {
+      "id": "A8x9VTGuIXZhx9EraoCC",
+      "year": "2013 — 2015",
+      "heading": "UX/UI Designer at Get Physical Music",
+      "url": "https://read.cv/caterinaf",
+      "collaborators": [],
+      "description": "Research and compare CMS platforms to meet Product Managers' and listeners' needs. Handle SEO, content migration, navigation setup, and product optimization. Provide technical support, update campaign content, assist with orders, and address customer inquiries.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1513,
+          "height": 925,
+          "url": "/content/media/UXUI-Designer-at-Get-Physical-Music-1.png"
+        },
+        {
+          "type": "image",
+          "width": 1440,
+          "height": 1712,
+          "url": "/content/media/UXUI-Designer-at-Get-Physical-Music-2.png"
+        },
+        {
+          "type": "image",
+          "width": 1440,
+          "height": 1285,
+          "url": "/content/media/UXUI-Designer-at-Get-Physical-Music-3.png"
+        },
+        {
+          "type": "image",
+          "width": 1440,
+          "height": 1285,
+          "url": "/content/media/UXUI-Designer-at-Get-Physical-Music-4.png"
+        }
+      ],
+      "type": "workExperience",
+      "title": "UX/UI Designer",
+      "company": "Get Physical Music",
+      "location": "Berlin, Germany"
+    },
+    {
+      "id": "hiUjrQtWZfgGcsWXSM4K",
+      "year": "2012 — 2012",
+      "heading": "UX/UI Designer Intern at !K7 Records",
+      "url": "https://k7.com/",
+      "collaborators": [],
+      "description": "Design and code interactive EPKs for newsletters and releases, optimize landing pages and websites for enhanced usability and accessibility.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "UX/UI Designer Intern",
+      "company": "!K7 Records",
+      "location": "Berlin, Germany"
+    }
+  ],
+  "volunteering": [],
+  "education": [
+    {
+      "id": "7X8JWSCuynpJ2sJnlyJw",
+      "year": "2009 — 2012",
+      "heading": "Master's degree at University of Turin",
+      "url": "https://en.unito.it/",
+      "collaborators": [],
+      "description": "Political Science and Government",
+      "attachments": [],
+      "type": "education",
+      "degree": "Master's degree",
+      "school": "University of Turin",
+      "location": ""
+    },
+    {
+      "id": "zeKka5yuS6BRIiOBEGUr",
+      "year": "2006 — 2009",
+      "heading": "Bachelor's degree at University of Turin",
+      "url": "https://en.unito.it/",
+      "collaborators": [],
+      "description": "Media Studies",
+      "attachments": [],
+      "type": "education",
+      "degree": "Bachelor's degree",
+      "school": "University of Turin",
+      "location": ""
+    }
+  ],
+  "certifications": [],
+  "contact": [
+    {
+      "id": "zS7kQ6Uy1cTnVNee9wjp",
+      "platform": "Website",
+      "handle": "fraufinelli.com",
+      "url": "http://www.fraufinelli.com"
+    },
+    {
+      "id": "6lcqT53CAtmUwddJMBkT",
+      "platform": "LinkedIn",
+      "handle": "cfinelli",
+      "url": "https://linkedin.com/in/cfinelli"
+    }
+  ],
+  "allCollections": [
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "wY8KfoNYPNpjyMbVofLg",
+          "year": "2018 — Now",
+          "heading": "Senior Product Designer at SuperTab",
+          "url": "https://www.supertab.co/",
+          "collaborators": [],
+          "description": "Implemented Design strategies, practices and Design System, incorporated User Research & Testing into product planning and development cycles.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Senior Product Designer",
+          "company": "SuperTab",
+          "location": "Remote"
+        },
+        {
+          "id": "88BYqtxeoJEPxhuxocQH",
+          "year": "2023 — Now",
+          "heading": "Senior Product Designer at Freelance",
+          "url": null,
+          "collaborators": [],
+          "description": "When freelancing, I am diving into adventurous projects that push creative and technological boundaries. From designing for emerging industries to crafting pioneeristic UX/UI solutions, I thrive on creating innovative experiences that inspire and empower users.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1894,
+              "height": 1462,
+              "url": "/content/media/Senior-Product-Designer-at-Freelance-1.png"
+            },
+            {
+              "type": "video",
+              "width": 2042,
+              "height": 1252,
+              "url": "/content/media/Senior-Product-Designer-at-Freelance-2.mov"
+            },
+            {
+              "type": "video",
+              "width": 1978,
+              "height": 1332,
+              "url": "/content/media/Senior-Product-Designer-at-Freelance-3.mov"
+            },
+            {
+              "type": "image",
+              "width": 1440,
+              "height": 1117,
+              "url": "/content/media/Senior-Product-Designer-at-Freelance-4.png"
+            },
+            {
+              "type": "image",
+              "width": 947,
+              "height": 722,
+              "url": "/content/media/Senior-Product-Designer-at-Freelance-5.png"
+            },
+            {
+              "type": "video",
+              "width": 572,
+              "height": 1248,
+              "url": "/content/media/Senior-Product-Designer-at-Freelance-6.mov"
+            }
+          ],
+          "type": "workExperience",
+          "title": "Senior Product Designer",
+          "company": "Freelance",
+          "location": "Remote"
+        },
+        {
+          "id": "VpOzy3XwSnbUQgel97ht",
+          "year": "2016 — 2018",
+          "heading": "UX / UI Designer at PocketWeb",
+          "url": null,
+          "collaborators": [],
+          "description": "Responsible of UX and Interface Design, working with customer journeys, moodboards, wireframes and prototypes.",
+          "attachments": [
+            {
+              "type": "video",
+              "width": 2118,
+              "height": 1348,
+              "url": "/content/media/UX-UI-Designer-at-PocketWeb-1.mov"
+            },
+            {
+              "type": "video",
+              "width": 2230,
+              "height": 1458,
+              "url": "/content/media/UX-UI-Designer-at-PocketWeb-2.mov"
+            }
+          ],
+          "type": "workExperience",
+          "title": "UX / UI Designer",
+          "company": "PocketWeb",
+          "location": "Berlin, Germany"
+        },
+        {
+          "id": "Dz2Erlnb2mSUERt206RK",
+          "year": "2014 — 2016",
+          "heading": "UX / UI Designer at Quandoo",
+          "url": "https://www.quandoo.co.uk/?_gl=1*1czo2aq*_gcl_au*OTc4ODExNTQ3LjE3MzM5MTk0NTE.&locale=en_GB",
+          "collaborators": [],
+          "description": "Executing all visual design stages from concept to final release and effectively launched Android, iOS, browser-based SaaS.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1800,
+              "height": 1268,
+              "url": "/content/media/UX-UI-Designer-at-Quandoo-1.png"
+            },
+            {
+              "type": "image",
+              "width": 1800,
+              "height": 1268,
+              "url": "/content/media/UX-UI-Designer-at-Quandoo-2.png"
+            },
+            {
+              "type": "image",
+              "width": 1800,
+              "height": 1268,
+              "url": "/content/media/UX-UI-Designer-at-Quandoo-3.png"
+            },
+            {
+              "type": "image",
+              "width": 1800,
+              "height": 1268,
+              "url": "/content/media/UX-UI-Designer-at-Quandoo-4.png"
+            },
+            {
+              "type": "image",
+              "width": 1800,
+              "height": 1268,
+              "url": "/content/media/UX-UI-Designer-at-Quandoo-5.png"
+            }
+          ],
+          "type": "workExperience",
+          "title": "UX / UI Designer",
+          "company": "Quandoo",
+          "location": "Berlin, Germany"
+        },
+        {
+          "id": "A8x9VTGuIXZhx9EraoCC",
+          "year": "2013 — 2015",
+          "heading": "UX/UI Designer at Get Physical Music",
+          "url": "https://read.cv/caterinaf",
+          "collaborators": [],
+          "description": "Research and compare CMS platforms to meet Product Managers' and listeners' needs. Handle SEO, content migration, navigation setup, and product optimization. Provide technical support, update campaign content, assist with orders, and address customer inquiries.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1513,
+              "height": 925,
+              "url": "/content/media/UXUI-Designer-at-Get-Physical-Music-1.png"
+            },
+            {
+              "type": "image",
+              "width": 1440,
+              "height": 1712,
+              "url": "/content/media/UXUI-Designer-at-Get-Physical-Music-2.png"
+            },
+            {
+              "type": "image",
+              "width": 1440,
+              "height": 1285,
+              "url": "/content/media/UXUI-Designer-at-Get-Physical-Music-3.png"
+            },
+            {
+              "type": "image",
+              "width": 1440,
+              "height": 1285,
+              "url": "/content/media/UXUI-Designer-at-Get-Physical-Music-4.png"
+            }
+          ],
+          "type": "workExperience",
+          "title": "UX/UI Designer",
+          "company": "Get Physical Music",
+          "location": "Berlin, Germany"
+        },
+        {
+          "id": "hiUjrQtWZfgGcsWXSM4K",
+          "year": "2012 — 2012",
+          "heading": "UX/UI Designer Intern at !K7 Records",
+          "url": "https://k7.com/",
+          "collaborators": [],
+          "description": "Design and code interactive EPKs for newsletters and releases, optimize landing pages and websites for enhanced usability and accessibility.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "UX/UI Designer Intern",
+          "company": "!K7 Records",
+          "location": "Berlin, Germany"
+        }
+      ]
+    },
+    {
+      "name": "Projects",
+      "items": [
+        {
+          "id": "P6d2yZEXYCjHrI8gOQSB",
+          "year": "2024",
+          "heading": "X32 Console at Behringer",
+          "url": null,
+          "collaborators": [],
+          "description": "As part of my work as a UX/UI Designer, I had the opportunity to conceptualize a modern update to Behringer’s X32 console. The focus was on integrating a touch screen interface to enhance accessibility and efficiency for users, while also delivering a sleek, visually refined interface that aligns with contemporary design standards.",
+          "attachments": [],
+          "type": "project",
+          "title": "X32 Console",
+          "company": "Behringer"
+        },
+        {
+          "id": "seiRh0sQJbHQJkqjS4bY",
+          "year": "2024",
+          "heading": "InFi at Indoor Atlas",
+          "url": "https://www.indooratlas.com/",
+          "collaborators": [],
+          "description": "I got asked \"an app to navigate indoor venues like a ninja\" and I felt completely lost. Seven months later my agency and I presented a social app based on geomagnetic fields.",
+          "attachments": [],
+          "type": "project",
+          "title": "InFi",
+          "company": "Indoor Atlas"
+        },
+        {
+          "id": "fqbHHlsL8vsA8T0aHXkL",
+          "year": "2024",
+          "heading": "Picea at Home Power Solutions",
+          "url": "https://www.homepowersolutions.de/en/product/",
+          "collaborators": [],
+          "description": "In the future we will be all able to  generate, store, use and control our energy at home. Maybe simply using the iPad App of Home Power Solutions.",
+          "attachments": [],
+          "type": "project",
+          "title": "Picea",
+          "company": "Home Power Solutions"
+        },
+        {
+          "id": "cpCyxr9a3NQkdiKmENUc",
+          "year": "2022",
+          "heading": "Live Rec at Ableton",
+          "url": null,
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "project",
+          "title": "Live Rec",
+          "company": "Ableton"
+        }
+      ]
+    },
+    {
+      "name": "Education",
+      "items": [
+        {
+          "id": "7X8JWSCuynpJ2sJnlyJw",
+          "year": "2009 — 2012",
+          "heading": "Master's degree at University of Turin",
+          "url": "https://en.unito.it/",
+          "collaborators": [],
+          "description": "Political Science and Government",
+          "attachments": [],
+          "type": "education",
+          "degree": "Master's degree",
+          "school": "University of Turin",
+          "location": ""
+        },
+        {
+          "id": "zeKka5yuS6BRIiOBEGUr",
+          "year": "2006 — 2009",
+          "heading": "Bachelor's degree at University of Turin",
+          "url": "https://en.unito.it/",
+          "collaborators": [],
+          "description": "Media Studies",
+          "attachments": [],
+          "type": "education",
+          "degree": "Bachelor's degree",
+          "school": "University of Turin",
+          "location": ""
+        }
+      ]
+    },
+    {
+      "name": "Side Projects",
+      "items": [
+        {
+          "id": "Sc4mfw33oDbR158w3VHN",
+          "year": "Ongoing",
+          "heading": "Viaggio a 1.5x Podcast",
+          "url": "https://cheviaggio.net",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "sideProject",
+          "title": "Viaggio a 1.5x Podcast",
+          "company": ""
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "zS7kQ6Uy1cTnVNee9wjp",
+          "platform": "Website",
+          "handle": "fraufinelli.com",
+          "url": "http://www.fraufinelli.com"
+        },
+        {
+          "id": "6lcqT53CAtmUwddJMBkT",
+          "platform": "LinkedIn",
+          "handle": "cfinelli",
+          "url": "https://linkedin.com/in/cfinelli"
+        }
+      ]
+    }
+  ]
+}
