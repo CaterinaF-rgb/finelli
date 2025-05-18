@@ -119,6 +119,12 @@
   margin-top: calc((var(--font-size) * var(--line-height)) / 2);
 }
 
+.ProfileWritingTabContent_yearSection__ahazB h3 {
+    font-size: var(--font-size);
+    font-weight: 400;
+    margin-bottom: calc((var(--font-size) * var(--line-height)) / 2)
+}
+
 @media (max-width: 480px) {
   
   .about .description,

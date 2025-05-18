@@ -53,6 +53,235 @@ const Profile: React.FC<ProfileProps> = ({
           </section>
         )
       })}
+          <section data-print="true" style={{ opacity: 1 }}>
+            <div className="ProfileWritingTabContent_writingTab__jRAyV">
+              <div className="Profile_ProfileWritingTabContent_yearSection__ahazB__jH7fO">
+                <h3>Writing 2024</h3> 
+                <div className="ProfileWritingTabContent_pages__OjGhT">
+                  <div className="ProfileWritingTabContent_pageRow__n3WhE">
+                    <div className="ProfileWritingTabContent_dateMarker__VtkM3">
+                      <div
+                        className="ProfileWritingTabContent_dateContainer__hWY7c"
+                        style={{ height: 67 }}
+                      >
+                        <a
+                          className="MegaLink_megalink__u_TFB"
+                          data-hover="true"
+                          href="https://read.cv/caterinaf/x32"
+                        >
+                          Dec 26
+                        </a>
+                      </div>
+                    </div>
+                    <div className="ProfileWritingTabContent_pageInfo____AWZ">
+                      <div className="ProfileWritingTabContent_title__pJouF">
+                        <a
+                          className="MegaLink_megalink__u_TFB"
+                          data-hover="true"
+                          href="https://read.cv/caterinaf/x32"
+                        >
+                          Behringer's X32 - my Approach to Innovation
+                        </a>
+                      </div>
+                      <div className="ProfileWritingTabContent_date__1fhoG">
+                        <span className="ProfileWritingTabContent_mobileDate__wvMVE">
+                          <a
+                            className="MegaLink_megalink__u_TFB"
+                            data-hover="true"
+                            href="https://read.cv/caterinaf/x32"
+                          >
+                            Dec 26
+                          </a>
+                          &nbsp;·&nbsp;{" "}
+                        </span>
+                        <a
+                          className="MegaLink_megalink__u_TFB"
+                          data-hover="true"
+                          href="https://read.cv/caterinaf/x32"
+                        >
+                          2 min read
+                        </a>
+                      </div>
+                    </div>
+                    <div className="ProfileWritingTabContent_thumbnailWrap__anQ0E">
+                      <a
+                        className="MegaLink_megalink__u_TFB"
+                        data-hover="false"
+                        href="https://read.cv/caterinaf/x32"
+                      >
+                        <img src="https://res.cloudinary.com/read-cv/image/upload/c_fill,h_90,w_152/dpr_2.0/v1/1/pages/wMys4ZM3UAQWN0vilHO24bWIWn12/uUYmyogvunOAnDfxXLro/thumbnail/f3010535-efb9-4509-b0e5-eafbd2bf377c.jpg?_a=DATAdtAAZAA0" />
+                      </a>
+                    </div>
+                  </div>
+                  <div className="ProfileWritingTabContent_pageRow__n3WhE">
+                    <div className="ProfileWritingTabContent_dateMarker__VtkM3">
+                      <div
+                        className="ProfileWritingTabContent_dateContainer__hWY7c"
+                        style={{ height: 67 }}
+                      >
+                        <a
+                          className="MegaLink_megalink__u_TFB"
+                          data-hover="true"
+                          href="https://read.cv/caterinaf/picea"
+                        >
+                          Dec 22
+                        </a>
+                      </div>
+                    </div>
+                    <div className="ProfileWritingTabContent_pageInfo____AWZ">
+                      <div className="ProfileWritingTabContent_title__pJouF">
+                        <a
+                          className="MegaLink_megalink__u_TFB"
+                          data-hover="true"
+                          href="https://read.cv/caterinaf/picea"
+                        >
+                          Picea - Monitoring Renewable Energy at Home
+                        </a>
+                      </div>
+                      <div className="ProfileWritingTabContent_date__1fhoG">
+                        <span className="ProfileWritingTabContent_mobileDate__wvMVE">
+                          <a
+                            className="MegaLink_megalink__u_TFB"
+                            data-hover="true"
+                            href="https://read.cv/caterinaf/picea"
+                          >
+                            Dec 22
+                          </a>
+                          &nbsp;·&nbsp;{" "}
+                        </span>
+                        <a
+                          className="MegaLink_megalink__u_TFB"
+                          data-hover="true"
+                          href="https://read.cv/caterinaf/picea"
+                        >
+                          4 min read
+                        </a>
+                      </div>
+                    </div>
+                    <div className="ProfileWritingTabContent_thumbnailWrap__anQ0E">
+                      <a
+                        className="MegaLink_megalink__u_TFB"
+                        data-hover="false"
+                        href="https://read.cv/caterinaf/picea"
+                      >
+                        <img src="https://res.cloudinary.com/read-cv/image/upload/c_fill,h_90,w_152/dpr_2.0/v1/1/pages/wMys4ZM3UAQWN0vilHO24bWIWn12/oBsYSh3i0FJJnC6xPfTM/thumbnail/a8554f3c-7288-421e-9008-164648d67cd5.jpg?_a=DATAdtAAZAA0" />
+                      </a>
+                    </div>
+                  </div>
+                  <div className="ProfileWritingTabContent_pageRow__n3WhE">
+                    <div className="ProfileWritingTabContent_dateMarker__VtkM3">
+                      <div
+                        className="ProfileWritingTabContent_dateContainer__hWY7c"
+                        style={{ height: 45 }}
+                      >
+                        <a
+                          className="MegaLink_megalink__u_TFB"
+                          data-hover="true"
+                          href="https://read.cv/caterinaf/infi"
+                        >
+                          Dec 20
+                        </a>
+                      </div>
+                    </div>
+                    <div className="ProfileWritingTabContent_pageInfo____AWZ">
+                      <div className="ProfileWritingTabContent_title__pJouF">
+                        <a
+                          className="MegaLink_megalink__u_TFB"
+                          data-hover="true"
+                          href="https://read.cv/caterinaf/infi"
+                        >
+                          inFi - Indoor Navigation App
+                        </a>
+                      </div>
+                      <div className="ProfileWritingTabContent_date__1fhoG">
+                        <span className="ProfileWritingTabContent_mobileDate__wvMVE">
+                          <a
+                            className="MegaLink_megalink__u_TFB"
+                            data-hover="true"
+                            href="https://read.cv/caterinaf/infi"
+                          >
+                            Dec 20
+                          </a>
+                          &nbsp;·&nbsp;{" "}
+                        </span>
+                        <a
+                          className="MegaLink_megalink__u_TFB"
+                          data-hover="true"
+                          href="https://read.cv/caterinaf/infi"
+                        >
+                          5 min read
+                        </a>
+                      </div>
+                    </div>
+                    <div className="ProfileWritingTabContent_thumbnailWrap__anQ0E">
+                      <a
+                        className="MegaLink_megalink__u_TFB"
+                        data-hover="false"
+                        href="https://read.cv/caterinaf/infi"
+                      >
+                        <img src="https://res.cloudinary.com/read-cv/image/upload/c_fill,h_90,w_152/dpr_2.0/v1/1/pages/wMys4ZM3UAQWN0vilHO24bWIWn12/twyWiB664ppnfKwIKwCm/thumbnail/78c81c8d-c0dc-4ec2-b70c-6f29bcaa2672.jpg?_a=DATAdtAAZAA0" />
+                      </a>
+                    </div>
+                  </div>
+                  <div className="ProfileWritingTabContent_pageRow__n3WhE">
+                    <div className="ProfileWritingTabContent_dateMarker__VtkM3">
+                      <div
+                        className="ProfileWritingTabContent_dateContainer__hWY7c"
+                        style={{ height: 67 }}
+                      >
+                        <a
+                          className="MegaLink_megalink__u_TFB"
+                          data-hover="true"
+                          href="https://read.cv/caterinaf/liverec"
+                        >
+                          Dec 2
+                        </a>
+                      </div>
+                    </div>
+                    <div className="ProfileWritingTabContent_pageInfo____AWZ">
+                      <div className="ProfileWritingTabContent_title__pJouF">
+                        <a
+                          className="MegaLink_megalink__u_TFB"
+                          data-hover="true"
+                          href="https://read.cv/caterinaf/liverec"
+                        >
+                          Live Rec – Redefining Music Composition with Everyday Sounds
+                        </a>
+                      </div>
+                      <div className="ProfileWritingTabContent_date__1fhoG">
+                        <span className="ProfileWritingTabContent_mobileDate__wvMVE">
+                          <a
+                            className="MegaLink_megalink__u_TFB"
+                            data-hover="true"
+                            href="https://read.cv/caterinaf/liverec"
+                          >
+                            Dec 2
+                          </a>
+                          &nbsp;·&nbsp;{" "}
+                        </span>
+                        <a
+                          className="MegaLink_megalink__u_TFB"
+                          data-hover="true"
+                          href="https://read.cv/caterinaf/liverec"
+                        >
+                          3 min read
+                        </a>
+                      </div>
+                    </div>
+                    <div className="ProfileWritingTabContent_thumbnailWrap__anQ0E">
+                      <a
+                        className="MegaLink_megalink__u_TFB"
+                        data-hover="false"
+                        href="https://read.cv/caterinaf/liverec"
+                      >
+                        <img src="https://res.cloudinary.com/read-cv/image/upload/c_fill,h_90,w_152/dpr_2.0/v1/1/pages/wMys4ZM3UAQWN0vilHO24bWIWn12/4f83fyNLQHWhYzZ5F0Xs/thumbnail/6192666f-62fe-4868-8252-a6f854bd2f74.jpg?_a=DATAdtAAZAA0" />
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
     </div>
   );
 };
