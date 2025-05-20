@@ -56,7 +56,7 @@ const Profile: React.FC<ProfileProps> = ({
           <section data-print="true" style={{ opacity: 1 }}>
             <div className="ProfileWritingTabContent_writingTab__jRAyV">
               <div className="Profile_ProfileWritingTabContent_yearSection__ahazB__jH7fO">
-                <h3>Writing 2024</h3> 
+                <h3>Selected Projects</h3> 
                 <div className="ProfileWritingTabContent_pages__OjGhT">
                   <div className="ProfileWritingTabContent_pageRow__n3WhE">
                     <div className="ProfileWritingTabContent_dateMarker__VtkM3">
@@ -67,9 +67,8 @@ const Profile: React.FC<ProfileProps> = ({
                         <a
                           className="MegaLink_megalink__u_TFB"
                           data-hover="true"
-                          href="https://read.cv/caterinaf/x32"
+                          href="https://finelli-caterina.vercel.app/blog/x32"
                         >
-                          Dec 26
                         </a>
                       </div>
                     </div>
@@ -78,7 +77,7 @@ const Profile: React.FC<ProfileProps> = ({
                         <a
                           className="MegaLink_megalink__u_TFB"
                           data-hover="true"
-                          href="https://read.cv/caterinaf/x32"
+                          href="https://finelli-caterina.vercel.app/blog/x32"
                         >
                           Behringer's X32 - my Approach to Innovation
                         </a>
@@ -88,18 +87,16 @@ const Profile: React.FC<ProfileProps> = ({
                           <a
                             className="MegaLink_megalink__u_TFB"
                             data-hover="true"
-                            href="https://read.cv/caterinaf/x32"
+                            href="https://finelli-caterina.vercel.app/blog/x32"
                           >
-                            Dec 26
                           </a>
                           &nbsp;·&nbsp;{" "}
                         </span>
                         <a
                           className="MegaLink_megalink__u_TFB"
                           data-hover="true"
-                          href="https://read.cv/caterinaf/x32"
+                          href="https://finelli-caterina.vercel.app/blog/x32"
                         >
-                          2 min read
                         </a>
                       </div>
                     </div>
@@ -107,7 +104,7 @@ const Profile: React.FC<ProfileProps> = ({
                       <a
                         className="MegaLink_megalink__u_TFB"
                         data-hover="false"
-                        href="https://read.cv/caterinaf/x32"
+                        href="https://finelli-caterina.vercel.app/blog/x32"
                       >
                         <img src="https://res.cloudinary.com/read-cv/image/upload/c_fill,h_90,w_152/dpr_2.0/v1/1/pages/wMys4ZM3UAQWN0vilHO24bWIWn12/uUYmyogvunOAnDfxXLro/thumbnail/f3010535-efb9-4509-b0e5-eafbd2bf377c.jpg?_a=DATAdtAAZAA0" />
                       </a>
